@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-twi50/static/css/main.8acbad8e.chunk.css",
+    "main.js": "https://.github.io/csb-twi50/static/js/main.85070e58.chunk.js",
+    "main.js.map": "https://.github.io/csb-twi50/static/js/main.85070e58.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-twi50/static/js/runtime-main.f0aab523.js",
+    "runtime-main.js.map": "https://.github.io/csb-twi50/static/js/runtime-main.f0aab523.js.map",
+    "static/css/2.8e84006d.chunk.css": "https://.github.io/csb-twi50/static/css/2.8e84006d.chunk.css",
+    "static/js/2.515105dd.chunk.js": "https://.github.io/csb-twi50/static/js/2.515105dd.chunk.js",
+    "static/js/2.515105dd.chunk.js.map": "https://.github.io/csb-twi50/static/js/2.515105dd.chunk.js.map",
+    "index.html": "https://.github.io/csb-twi50/index.html",
+    "static/css/2.8e84006d.chunk.css.map": "https://.github.io/csb-twi50/static/css/2.8e84006d.chunk.css.map",
+    "static/css/main.8acbad8e.chunk.css.map": "https://.github.io/csb-twi50/static/css/main.8acbad8e.chunk.css.map",
+    "static/js/2.515105dd.chunk.js.LICENSE.txt": "https://.github.io/csb-twi50/static/js/2.515105dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0aab523.js",
+    "static/css/2.8e84006d.chunk.css",
+    "static/js/2.515105dd.chunk.js",
+    "static/css/main.8acbad8e.chunk.css",
+    "static/js/main.85070e58.chunk.js"
+  ]
+}
